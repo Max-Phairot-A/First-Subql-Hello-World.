@@ -55,6 +55,8 @@ query{
   }
 }
 ```
+### 8. Once we have already completed the above running of the query instruction. We can obtain the out as show below:
+![alt text](First-Subql-Hello-World_output.png)
 
 # Understanding this project
 
